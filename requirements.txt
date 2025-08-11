@@ -1,0 +1,5 @@
+numpy  #numerical python
+pandas #data manipulation
+scikit-learn   #models and data processing
+openai #for EDA process
+groq #fast and free LLM and free 
