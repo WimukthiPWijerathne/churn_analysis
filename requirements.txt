@@ -4,3 +4,4 @@ scikit-learn   #models and data processing
 openai #for EDA process
 groq #fast and free LLM and free 
 seaborn #for visualization
+dotenv
